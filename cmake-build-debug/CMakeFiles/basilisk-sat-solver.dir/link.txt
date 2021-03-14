@@ -1,1 +1,0 @@
-/usr/local/Cellar/gcc/10.2.0_4/bin/g++-10  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/basilisk-sat-solver.dir/main.cc.o  -o ../bin/basilisk-sat-solver 
