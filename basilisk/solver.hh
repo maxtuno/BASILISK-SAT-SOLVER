@@ -38,7 +38,7 @@ namespace basilisk {
         T status{0};     // -1 = UNSATISFIABLE, 1 = SATISFIABLE, 0 = UNRESOLVED
         T root_level{1}; // root level
 #if !defined(DRAT_PROOF)
-        T max_assignment_size{0}; // max_assignment_size for progress purposses
+        T max_assignment_size{0}; // max_assignment_size for progress purposes
 #endif
         T number_of_variables{0}; // number of variables
         T number_of_clauses{0};   // number of clauses
