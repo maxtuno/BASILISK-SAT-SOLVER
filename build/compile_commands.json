@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/peqnp/Documents/Development/BASILISK-SAT-SOLVER/build",
+  "command": "/usr/local/bin/g++-10  -I/Users/peqnp/Documents/Development/BASILISK-SAT-SOLVER/. -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/basilisk-sat-solver.dir/main.cc.o -c /Users/peqnp/Documents/Development/BASILISK-SAT-SOLVER/main.cc",
+  "file": "/Users/peqnp/Documents/Development/BASILISK-SAT-SOLVER/main.cc"
+}
+]

@@ -1,0 +1,88 @@
+{
+	"cmake" : 
+	{
+		"generator" : 
+		{
+			"multiConfig" : false,
+			"name" : "Unix Makefiles"
+		},
+		"paths" : 
+		{
+			"cmake" : "/Applications/CMake.app/Contents/bin/cmake",
+			"cpack" : "/Applications/CMake.app/Contents/bin/cpack",
+			"ctest" : "/Applications/CMake.app/Contents/bin/ctest",
+			"root" : "/Applications/CMake.app/Contents/share/cmake-3.19"
+		},
+		"version" : 
+		{
+			"isDirty" : false,
+			"major" : 3,
+			"minor" : 19,
+			"patch" : 5,
+			"string" : "3.19.5",
+			"suffix" : ""
+		}
+	},
+	"objects" : 
+	[
+		{
+			"jsonFile" : "codemodel-v2-1570e680010da325c39f.json",
+			"kind" : "codemodel",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 2
+			}
+		},
+		{
+			"jsonFile" : "cache-v2-5e9c53ceaf1654e06e74.json",
+			"kind" : "cache",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 0
+			}
+		}
+	],
+	"reply" : 
+	{
+		"client-vscode" : 
+		{
+			"query.json" : 
+			{
+				"requests" : 
+				[
+					{
+						"kind" : "cache",
+						"version" : 2
+					},
+					{
+						"kind" : "codemodel",
+						"version" : 2
+					}
+				],
+				"responses" : 
+				[
+					{
+						"jsonFile" : "cache-v2-5e9c53ceaf1654e06e74.json",
+						"kind" : "cache",
+						"version" : 
+						{
+							"major" : 2,
+							"minor" : 0
+						}
+					},
+					{
+						"jsonFile" : "codemodel-v2-1570e680010da325c39f.json",
+						"kind" : "codemodel",
+						"version" : 
+						{
+							"major" : 2,
+							"minor" : 2
+						}
+					}
+				]
+			}
+		}
+	}
+}

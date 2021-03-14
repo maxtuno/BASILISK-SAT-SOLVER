@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../basilisk/solver.hh
+algorithm
+-
+cassert
+-
+cstring
+-
+fstream
+-
+iostream
+-
+map
+-
+sstream
+-
+string
+-
+vector
+-
+
+/Users/peqnp/Documents/Development/BASILISK-SAT-SOLVER/main.cc
+cmath
+-
+basilisk/solver.hh
+-
+
